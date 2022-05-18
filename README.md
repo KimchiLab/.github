@@ -1,2 +1,1 @@
-# .github
-Kimchi Lab for Translational Neuroscience
+# Kimchi Lab for Translational Neuroscience
